@@ -1116,8 +1116,10 @@ section {
   background: #f8f8f8;
   text-align: center;
 }
-
-.pricing .btn-buy {
+#btnSubmit.btn-submit{
+  border: white;
+}
+.pricing .btn-buy, .btn-submit {
   background: #ffb727;
   display: inline-block;
   padding: 8px 35px;
